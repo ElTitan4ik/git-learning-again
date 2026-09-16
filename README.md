@@ -1,3 +1,3 @@
 "# Hello friend!"
-Привет друг
-Hola amigo
+Привет друг!
+Hola amigo!
